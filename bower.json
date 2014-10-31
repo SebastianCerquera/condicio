@@ -1,10 +1,10 @@
 {
   "name": "condicio",
   "version": "1.0.0",
-  "dependencies": {
-      "qunit": "1.14.0"
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "1.14.0"
   },
-  "devDependencies": {},
   "ignore": [
     "Gruntfile.js",
     "node_modules",
