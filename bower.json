@@ -5,6 +5,9 @@
   "devDependencies": {
     "qunit": "1.14.0"
   },
+  "main": [
+    "src/condicio.js"
+  ],
   "ignore": [
     "Gruntfile.js",
     "node_modules",
