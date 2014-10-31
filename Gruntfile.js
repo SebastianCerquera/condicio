@@ -40,7 +40,7 @@ module.exports = function (grunt) {
                     linesThresholdPct: 85
                 }
             },
-            all: ['src/test/test-condicio.html']
+            all: ['specs/test-condicio.html']
         },
 
         qunit_junit: {
